@@ -21,4 +21,4 @@ This repository contains all the code, notes, and practice projects I completed 
 * Cloudinary
 * Git & GitHub
 
-This repository serves as my learning archive and documents my progress throughout the course. It will continue to be updated as I learn new concepts and build more projects
+This repository serves as my learning archive and documents my progress throughout the course. It will continue to be updated as I learn new concepts and build more projects.
